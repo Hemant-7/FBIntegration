@@ -1,0 +1,399 @@
+{
+    "sections": [
+        {
+            "title": "|| Ath Mangalacharanam ||",
+            "dohas": [
+                {
+                    "id": 1,
+                    "title": "Garib namo namo Satpurush koon...",
+                    "fullText": "Garib namo namo Satpurush koon, namaskar guru kinh hi.\nSur nar munijan sadhva, santon sarbas dinh hin || 1 ||",
+                    "shabdarth": [
+                        {
+                            "word": "namo namo",
+                            "meaning": "Salutation again and again; complete surrender"
+                        },
+                        {
+                            "word": "Satpurush",
+                            "meaning": "The eternal Supreme Truth; the imperishable Supreme Being"
+                        },
+                        {
+                            "word": "namaskar guru kinh hi",
+                            "meaning": "Have bowed to the Guru; obeisance to the True Master (Satguru)"
+                        },
+                        {
+                            "word": "sur nar munijan",
+                            "meaning": "Gods, humans, and sages/seers"
+                        },
+                        {
+                            "word": "sadhva",
+                            "meaning": "Saints and holy ones; those on the path of Truth"
+                        },
+                        {
+                            "word": "sarbas dinh hin",
+                            "meaning": "Have surrendered everything; offered all that one has"
+                        }
+                    ],
+                    "saralarth": "Beginning his discourse, Garibdas Ji says — I bow again and again to that eternal Satpurush, the Supreme Being, and I have offered my reverence to my Satguru. To the gods, to humankind, to the sages and seers, to the saints, and to the entire community of holy ones, I have surrendered my everything.",
+                    "gahraBhav": "In this opening couplet, Garibdas Ji presents the very foundation of spiritual practice — surrender. \"Namo namo\" carries the sense of continuous, unbroken obeisance, not a one-time gesture. Bowing to the Satpurush and bowing to the Guru are two facets of one and the same consciousness. Offering one's all to everyone reflects the selflessness of the devotee.",
+                    "isRead": true
+                },
+                {
+                    "id": 2,
+                    "title": "Satguru Sahab sant sab...",
+                    "fullText": "Satguru Sahab sant sab, dandautam pranam.\nAage peechhe madhya hue, natan koon jaaun kurban || 2 ||",
+                    "shabdarth": [
+                        {
+                            "word": "Satguru Sahab",
+                            "meaning": "The true Master; the Supreme Lord God"
+                        },
+                        {
+                            "word": "dandautam",
+                            "meaning": "Prostration; full-body (sashtang) salutation"
+                        },
+                        {
+                            "word": "aage peechhe madhya",
+                            "meaning": "Past, future, and present — all three times"
+                        },
+                        {
+                            "word": "natan",
+                            "meaning": "The humble ones; meek devotees"
+                        },
+                        {
+                            "word": "kurban",
+                            "meaning": "Devoted; offered up; given in sacrifice"
+                        }
+                    ],
+                    "saralarth": "Prostrate salutations to the Satguru, to the Sahab (Lord), and to all the saints. To every devotee who has come before, who will come after, and who is here now — to all those humble souls I offer myself in devotion.",
+                    "gahraBhav": "In this couplet Garibdas Ji's surrender deepens further. Dandautam pranam — obeisance offered with the whole body, with the ego completely effaced. Remembering the saints of all three times shows that the tradition of devotion is eternal, and that to flow within this stream is itself liberation."
+                },
+                {
+                    "id": 3,
+                    "title": "Nirakar nirvisham...",
+                    "fullText": "Nirakar nirvisham, kaal jaal bhay bhanjanam.\nNirlepam nij nirgunam, akal anoop besunn dhunn || 3 ||",
+                    "shabdarth": [
+                        {
+                            "word": "nirakar",
+                            "meaning": "Formless; the Supreme Reality without shape"
+                        },
+                        {
+                            "word": "nirvisham",
+                            "meaning": "Free of disparity; even-minded and flawless"
+                        },
+                        {
+                            "word": "kaal jaal bhay bhanjanam",
+                            "meaning": "Destroyer of the snare of Death (Kaal) and of fear"
+                        },
+                        {
+                            "word": "nirlepam",
+                            "meaning": "Untainted; untouched by illusion (Maya)"
+                        },
+                        {
+                            "word": "akal",
+                            "meaning": "Beyond parts and attributes; indivisible consciousness"
+                        },
+                        {
+                            "word": "anoop",
+                            "meaning": "Incomparable; one to whom there is no likeness"
+                        },
+                        {
+                            "word": "besunn dhunn",
+                            "meaning": "The unstruck melody that lies beyond the void (Shunya)"
+                        }
+                    ],
+                    "saralarth": "That Supreme Being is formless, free of all disparity, the destroyer of the snare of Death and of fear. He is untouched by illusion, self-existent, beyond the gunas, indivisible, incomparable, and is himself the unstruck melody that lies beyond the void.",
+                    "gahraBhav": "This couplet glorifies the Supreme through negative attributes (neti-neti, \"not this, not this\"). \"Kaal jaal bhay bhanjanam\" — the one who breaks the bondage of death is the true Supreme Being. \"Besunn dhunn\" points to that state of the unstruck sound (anahad naad) which is heard at the highest stage of meditation."
+                },
+                {
+                    "id": 4,
+                    "title": "Soham surati samapatam...",
+                    "fullText": "Soham surati samapatam, sakal samana nirati lai.\nUjal hirambar hardamam, be-pravah athah hai, vaar paar nahin madhyatam || 4 ||",
+                    "shabdarth": [
+                        {
+                            "word": "Soham",
+                            "meaning": "\"That I am\" — the realization of \"I am Brahman\" (Aham Brahmasmi)"
+                        },
+                        {
+                            "word": "surati samapatam",
+                            "meaning": "The merging of consciousness (surati) into the Supreme"
+                        },
+                        {
+                            "word": "sakal samana nirati lai",
+                            "meaning": "Continuously absorbed, holding all creation within"
+                        },
+                        {
+                            "word": "ujal hirambar",
+                            "meaning": "Luminous sky; the pure sky of consciousness"
+                        },
+                        {
+                            "word": "hardamam",
+                            "meaning": "Every moment; continuously; always"
+                        },
+                        {
+                            "word": "be-pravah athah",
+                            "meaning": "Beyond all flow; of unfathomable depth"
+                        },
+                        {
+                            "word": "vaar paar nahin madhyatam",
+                            "meaning": "No beginning, no end, no middle — limitless"
+                        }
+                    ],
+                    "saralarth": "To merge into the surati of \"Soham\" and, gathering all creation within, to remain continuously absorbed in the Supreme — this is the true practice. That Supreme Reality is present every moment like a luminous sky of consciousness; it is beyond all flow, unfathomably deep, and without beginning, end, or middle.",
+                    "gahraBhav": "This couplet is a supreme description of non-dual (Advaita) realization. \"Soham\" — \"I am That\" — when this knowledge descends into the surati, the seeker's ego dissolves. \"Vaar paar nahin madhyatam\" — by negating the Supreme across all three dimensions, its infinitude is expressed."
+                },
+                {
+                    "id": 5,
+                    "title": "Garib jo sumirat siddhi hoi...",
+                    "fullText": "Garib jo sumirat siddhi hoi, Gananayak Galtana.\nKaro anugrah soi, paaras pad pravana || 5 ||",
+                    "shabdarth": [
+                        {
+                            "word": "sumirat",
+                            "meaning": "By remembering; upon doing remembrance (sumiran)"
+                        },
+                        {
+                            "word": "siddhi hoi",
+                            "meaning": "Attainment is achieved; the work is fulfilled"
+                        },
+                        {
+                            "word": "Gananayak",
+                            "meaning": "Lord of the ganas — Lord Ganesha"
+                        },
+                        {
+                            "word": "Galtana",
+                            "meaning": "Galta — the renowned shrine of Ganesha in Rajasthan"
+                        },
+                        {
+                            "word": "anugrah",
+                            "meaning": "Grace; blessing"
+                        },
+                        {
+                            "word": "paaras pad pravana",
+                            "meaning": "Feet like the philosopher's stone (paaras), which turn iron to gold"
+                        }
+                    ],
+                    "saralarth": "Garibdas Ji says — may that Gananayak Ganesha, by whose remembrance attainment is achieved and who is enshrined at the shrine of Galta, bestow his grace. Meditation upon his philosopher's-stone-like feet alone makes the soul worthy of the supreme state.",
+                    "gahraBhav": "This couplet is an auspicious invocation to Ganesha. \"Paaras pad\" — just as the philosopher's stone turns iron to gold, the touch of Ganesha's feet refines the seeker's soul. It is a humble petition of devotion."
+                },
+                {
+                    "id": 6,
+                    "title": "Aadi Ganesh manaaun...",
+                    "fullText": "Aadi Ganesh manaaun, gan nayak devan deva.\nCharan kamal lyau laaun, aadi ant karahun seva || 6 ||",
+                    "shabdarth": [
+                        {
+                            "word": "Aadi Ganesh",
+                            "meaning": "Ganesha, worshipped since the beginning of time; the first to be revered"
+                        },
+                        {
+                            "word": "manaaun",
+                            "meaning": "To propitiate; to please; to worship"
+                        },
+                        {
+                            "word": "gan nayak devan deva",
+                            "meaning": "Leader of the ganas, god of gods"
+                        },
+                        {
+                            "word": "charan kamal",
+                            "meaning": "Lotus-like feet; the sacred feet"
+                        },
+                        {
+                            "word": "lyau laaun",
+                            "meaning": "To fix; to fix my attention and meditation"
+                        },
+                        {
+                            "word": "aadi ant karahun seva",
+                            "meaning": "May I keep serving from beginning to end"
+                        }
+                    ],
+                    "saralarth": "I propitiate Aadi Ganesh, who is the leader of the ganas and the god of gods. I fix my meditation upon his lotus-like feet and will keep serving him from beginning to end.",
+                    "gahraBhav": "This couplet is the essence of the praise of Ganesha. \"Aadi ant karahun seva\" conveys that devotion is not momentary but a lifelong practice. Ganesha is the remover of obstacles, and through his worship all hindrances on the seeker's path are dissolved."
+                },
+                {
+                    "id": 7,
+                    "title": "Param shuddhi sangeetam...",
+                    "fullText": "Param shuddhi sangeetam, riddhi siddhi data soi.\nAvgat gunah ateetam, Satpurush nirmohi || 7 ||",
+                    "shabdarth": [
+                        {
+                            "word": "param shuddhi sangeetam",
+                            "meaning": "Supreme purity and music — the holiness of the divine sound"
+                        },
+                        {
+                            "word": "riddhi siddhi data",
+                            "meaning": "Giver of prosperity and attainments (riddhi-siddhi)"
+                        },
+                        {
+                            "word": "avgat",
+                            "meaning": "All-knowing; the one who knows everything"
+                        },
+                        {
+                            "word": "gunah ateetam",
+                            "meaning": "Beyond the gunas; transcending the three qualities"
+                        },
+                        {
+                            "word": "nirmohi",
+                            "meaning": "Free of attachment; without delusion"
+                        }
+                    ],
+                    "saralarth": "That Supreme Being is the source of supreme purity and divine music — he alone is the giver of prosperity and attainment. He is all-knowing, beyond the gunas, and is the Satpurush who is wholly free of attachment.",
+                    "gahraBhav": "This couplet beautifully harmonizes both the positive and the negative aspects of the Supreme. \"Param shuddhi sangeetam\" — the Supreme is himself music, he is purity itself. And at the same time \"nirmohi\" — being bound to none, he can belong to all."
+                },
+                {
+                    "id": 8,
+                    "title": "Jagdamba Jagdeesham...",
+                    "fullText": "Jagdamba Jagdeesham, mangal roop Murari.\nTan man arpun sheesham, bhakti mukti bhandari || 8 ||",
+                    "shabdarth": [
+                        {
+                            "word": "Jagdamba",
+                            "meaning": "Mother of the world; the primordial Shakti"
+                        },
+                        {
+                            "word": "Jagdeesham",
+                            "meaning": "Lord of the world; master of creation"
+                        },
+                        {
+                            "word": "mangal roop Murari",
+                            "meaning": "The auspicious form; Vishnu, slayer of the demon Mur"
+                        },
+                        {
+                            "word": "arpun sheesham",
+                            "meaning": "To offer one's head; complete surrender"
+                        },
+                        {
+                            "word": "bhakti mukti bhandari",
+                            "meaning": "Keeper of the treasure of both devotion and liberation"
+                        }
+                    ],
+                    "saralarth": "To Jagdamba, mother of the world, and to Jagdeesh, lord of the world — the auspicious-formed Murari — I offer my body, mind, and head. They are the keepers of the treasure of both devotion and liberation.",
+                    "gahraBhav": "This couplet venerates both Shakti and Shiva (Jagdamba and Jagdeesh) together — a symbol of the non-dual vision. \"Tan man arpun sheesham\" is a threefold surrender that expresses the fullness of devotion. To seek devotion and liberation together reflects the maturity of the devotee."
+                },
+                {
+                    "id": 9,
+                    "title": "Sur nar munijan dhyaavain...",
+                    "fullText": "Sur nar munijan dhyaavain, Brahma Vishnu Mahesha.\nShesh sahans mukh gaavain, poojain Aadi Ganesha || 9 ||",
+                    "shabdarth": [
+                        {
+                            "word": "sur nar munijan",
+                            "meaning": "Gods, humans, and sages"
+                        },
+                        {
+                            "word": "dhyaavain",
+                            "meaning": "Meditate upon; worship"
+                        },
+                        {
+                            "word": "Brahma Vishnu Mahesha",
+                            "meaning": "The trinity — creator, preserver, and destroyer"
+                        },
+                        {
+                            "word": "Shesh sahans mukh",
+                            "meaning": "The thousand mouths of Sheshnaag, the cosmic serpent"
+                        },
+                        {
+                            "word": "Aadi Ganesha",
+                            "meaning": "Ganesha, worshipped since the beginning of time"
+                        }
+                    ],
+                    "saralarth": "Gods, humans, and sages — all meditate. Brahma, Vishnu, and Mahesh — all worship. Sheshnaag sings with his thousand mouths — and they all worship Aadi Ganesha.",
+                    "gahraBhav": "What is striking in this couplet is that even the trinity themselves worship that supreme power (in the form of Ganesha). It shows that all bow before the highest power of the cosmos. \"Shesh sahans mukh gaavain\" — that glory is so vast that even a thousand mouths cannot fully describe it."
+                },
+                {
+                    "id": 10,
+                    "title": "Indra Kuber sarikha...",
+                    "fullText": "Indra Kuber sarikha, Varun Dharmaray dhyaavain.\nSumrath jeevan jeeka, man ichchha phal paavain || 10 ||",
+                    "shabdarth": [
+                        {
+                            "word": "Indra Kuber sarikha",
+                            "meaning": "The likes of Indra and Kubera — king of the gods and god of wealth"
+                        },
+                        {
+                            "word": "Varun",
+                            "meaning": "God of water; lord of the waters"
+                        },
+                        {
+                            "word": "Dharmaray",
+                            "meaning": "Yamraj, god of dharma; the judge of deeds"
+                        },
+                        {
+                            "word": "dhyaavain",
+                            "meaning": "Meditate upon; worship"
+                        },
+                        {
+                            "word": "sumrath jeevan jeeka",
+                            "meaning": "The being whose remembrance (sumiran) is powerful and effective"
+                        },
+                        {
+                            "word": "man ichchha phal paavain",
+                            "meaning": "Receive the fruit of the heart's desire"
+                        }
+                    ],
+                    "saralarth": "Even great gods like Indra, Kubera, Varun, and Dharmaraj meditate upon that supreme power. The being who does remembrance (sumiran) of that power receives the fruit of the heart's desire.",
+                    "gahraBhav": "This couplet shows even the presiding deities as worshippers of that supreme power. The sense conveyed is that for one who remembers the Supreme, all the gods become favourable. The devotee need not beg of anyone else — remembrance of the Supreme alone grants everything."
+                },
+                {
+                    "id": 11,
+                    "title": "Tetees koti adhara...",
+                    "fullText": "Tetees koti adhara, dhyaavain sahans athasi.\nUtrain bhavjal paara, kati hain yam ki phaansi || 11 ||",
+                    "shabdarth": [
+                        {
+                            "word": "tetees koti",
+                            "meaning": "Thirty-three crore gods and goddesses"
+                        },
+                        {
+                            "word": "adhara",
+                            "meaning": "The support; the foundation on which all rest"
+                        },
+                        {
+                            "word": "sahans athasi",
+                            "meaning": "Eighty-eight thousand — the count of sages and seers"
+                        },
+                        {
+                            "word": "bhavjal paara",
+                            "meaning": "Crossing the ocean of worldly existence; liberation"
+                        },
+                        {
+                            "word": "kati hain yam ki phaansi",
+                            "meaning": "The noose of Yamraj is cut; freedom from the bondage of death"
+                        }
+                    ],
+                    "saralarth": "That Supreme Reality, which is the support of the thirty-three crore gods and which eighty-eight thousand sages meditate upon — by remembering it one crosses the ocean of worldly existence and the noose of Yamraj is cut away.",
+                    "gahraBhav": "This final couplet concludes the Mangalacharan. \"Tetees koti adhara\" — that Supreme Being is the support of the entire host of gods. \"Yam ki phaansi\" — freedom from the cycle of death and rebirth. Thus Garibdas Ji conveys the message that meditation upon that one Supreme Reality is the sole path to liberation from all obstacles, fear, and bondage."
+                }
+            ]
+        }
+    ],
+    "news": [
+        {
+            "id": "1",
+            "title": "Sant Samagam 2026 — Special Gathering",
+            "subtitle": "A special discourse on the vani of Garibdas Sahab Ji will be held in Delhi.",
+            "date": "5 May 2026"
+        },
+        {
+            "id": "2",
+            "title": "New Vani Collection Published",
+            "subtitle": "A new edition of the Mangalacharan, with a detailed commentary, has been published.",
+            "date": "2 May 2026"
+        },
+        {
+            "id": "3",
+            "title": "Online Satsang Programme",
+            "subtitle": "An online satsang will be held every Sunday.",
+            "date": "28 April 2026"
+        },
+        {
+            "id": "4",
+            "title": "Youth Seekers' Camp",
+            "subtitle": "A special spiritual camp organized for young seekers.",
+            "date": "20 April 2026"
+        },
+        {
+            "id": "5",
+            "title": "Granth Parayan Festival",
+            "subtitle": "A seven-day scripture recitation (granth parayan) and devotional-song evening.",
+            "date": "15 April 2026"
+        },
+        {
+            "id": "6",
+            "title": "New Mobile App Launched",
+            "subtitle": "The new version of the Mangalacharan app is now available on Android and iOS.",
+            "date": "10 April 2026"
+        }
+    ]
+}
