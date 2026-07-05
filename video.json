@@ -1,0 +1,29 @@
+{
+    "status": 200,
+    "message": "Success",
+    "data": {
+        "videos": [
+            {
+                "id": 1,
+                "title": "मंगलाचरण | Manglacharan",
+                "url": "youtube.com/watch?v=6d8oLxnomG8&time_continue=2&source_ve_path=MjM4NTE&embeds_referring_euri=https%3A%2F%2Fsatsahibvsmt.co.in%2F"
+            },
+            {
+                "id": 2,
+                "title": "संध्या आरती | Evening Aarti",
+                "url": "youtube.com/watch?v=6d8oLxnomG8&time_continue=2&source_ve_path=MjM4NTE&embeds_referring_euri=https%3A%2F%2Fsatsahibvsmt.co.in%2F"
+            },
+            {
+                "id": 3,
+                "title": "प्रातः कालीन आरती | Morning Aarti",
+                "url": "https://www.youtube.com/watch?v=Ev7cVQ7Apgg&t=1s"
+                
+            },
+            {
+                "id": 4,
+                "title": " SOME REASON TO WORK TOGETHER",
+                "url": "youtube.com/watch?v=LNFkbve3MHY&time_continue=3&source_ve_path=MjM4NTE&embeds_referring_euri=https%3A%2F%2Fsatsahibvsmt.co.in%2F"
+            }
+        ]
+    }
+}
